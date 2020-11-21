@@ -31,7 +31,7 @@ Just edit `pyproject.toml` or run
 ```sh
 poetry add logzero
 # or
-poetry add mypy --dev
+poetry add flake8 mypy --dev
 ```
 
 ## Updating dependencies

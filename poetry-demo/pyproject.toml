@@ -10,6 +10,7 @@ logzero = "^1.6.3"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
+flake8 = "^3.8.4"
 mypy = "^0.790"
 
 [build-system]
